@@ -6,3 +6,6 @@ A form built with bootstrap including tool bar logo placement with easy styling 
 <h1>Step 2</h1>
 <h4>Do the same for the stylesheet and HTML file.</h4>
 
+<h1>Step 3</h1>
+<h4>Make styling changes as Required, change logo and add your own questions</h4>
+
