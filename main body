@@ -1,0 +1,600 @@
+<body>
+
+<aside id="toolbar"></aside>
+<br>
+<br>
+<div class="container">
+
+
+    <div class="row col-lg-12">
+    	<div class="col-md-12">
+            <div class="panel with-nav-tabs panel-default">
+               <div class="panel-heading">
+<a href="http://mytheme.com/image/1430Q"><img src="http://www123.mytheme.com/mytheme/2015/12/30/d6596c1709dacc796.md.gif" style="  padding-left: 1%;
+    max-width: 23%;
+    margin-bottom: -11%;
+    margin-left: -6%;
+    margin-top: -5%;"  border=0></a>
+
+<input type="submit" value="Submit" style="margin-left: 23%;
+    width: 17%;
+    height: 3.5em;
+    background-color: #df1b78;
+    border-radius: 7px;
+    color: #fff;
+    margin-top: -10.5%;
+    margin-bottom: -16.99%;
+    box-shadow: -3px -3px 0px 2px #BF0D60;
+    " 
+class="btn button hvr-float-shadow" display:block;>
+
+                        <ul class="nav nav-tabs">
+                            <li class="active"><a href="#tab1default" data-toggle="tab">Contact</a></li>
+                            <li><a href="#tab2default" data-toggle="tab">Characteristics</a></li>
+                            <li><a href="#tab3default" data-toggle="tab">Parents</a></li>
+                            <li><a href="#tab4default" data-toggle="tab">Restrictions</a></li>
+                            <li><a href="#tab5default" data-toggle="tab">Tests and scans</a></li>
+                           
+                        </ul>
+                </div>
+                <div class="panel-body">
+                    <div class="tab-content">
+                        <div class="tab-pane fade in active" id="tab1default">
+<form>
+<section class="form-inline">
+
+<div class="form-group col-sm-3">
+<label class=" control-label" for="Contact_FirstName">First Name:</label>
+[input=textbox|class=form-control|name=Contact_FirstName|watermark=First Name|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_Surname">Surname:</label>
+[type=textbox|class=form-control|name=Contact_Surname|watermark=Surname|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_jobTitle">Job title:</label>
+[type=textbox|class=form-control|name=Contact_jobTitle|watermark=Job title|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_phone">Home Phone:</label>
+[type=number|class=form-control|name=Contact_phone|watermark=Home Phone|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_Email">Email:</label>
+[type=textbox|class=form-control|name=Contact_Email|watermark=Email|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_phone1">Mobile Phone:</label>
+[type=number|class=form-control|name=Contact_phone1|watermark=Mobile Number|Required]
+  </div>
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_addressLine1">Address Line 1:</label>
+[type=textbox|class=form-control|name=Contact_addressLine1|watermark=The first line of your address|Required]
+  </div>
+    <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_addressLine2">Address Line 2:</label>
+[type=textbox|class=form-control|name=Contact_addressLine2|watermark=The second line of your address|Required]
+  </div>
+    <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_City">City:</label>
+[type=textbox|class=form-control|name=Contact_City|watermark=City|Required]
+  </div>
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_Province">Province:</label>
+[type=textbox|class=form-control|name=Contact_Province|watermark=Province|Required]
+  </div>
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_postcode">postcode:</label>
+[type=postcode|class=form-control|name=Contact_postcode|watermark=postcode|Required]
+  </div>
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_Region">Region:</label>
+[type=textbox|class=form-control|name=Contact_Region|watermark=Region|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_donorCode">new donor code:</label>
+[type=textbox|class=form-control|name=Contact_donorCode|watermark= New donor code|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_howTheyHeard">How they heard about us:</label>
+[type=textbox|class=form-control|name=Contact_howTheyHeard|watermark= How they heard about us?|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_dateOfFirstVisit">Date of first visit:</label>
+[type=Date|class=form-control|name=Contact_dateOfFirstVisit|watermark= Date of first visit|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_FirstSamplesAndInterviews">First samples and interview:</label>
+[type=date|class=form-control|name=Contact_FirstSamplesAndInterviews|Required]
+  </div>
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_DonorStatus">Donor status:</label>
+[type=textbox|class=form-control|name=Contact_DonorStatus|watermark=Donor Status|Required]
+  </div>
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_DonorAction">Action:</label>
+[type=textbox|class=form-control|name=Contact_DonorAction|watermark=Donor Action|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_Recipient">Recipient:</label>
+[type=textbox|class=form-control|name=Contact_Recipient|watermark=Recipitant|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_RemovedFromProgram">Removed from program:</label>
+[type=textbox|class=form-control|name=Contact_RemovedFromProgram|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_OldEdiNumber">Old edi number:</label>
+[type=textbox|class=form-control|name=Contact_OldEdiNumber|watermark=Old EDI Number|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_EdiNumber2">Edi number 2:</label>
+[type=textbox|class=form-control|name=Contact_EdiNumber2|Watermark=EDI Number|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_sdNumber">Sd Number:</label>
+[type=textbox|class=form-control|name=Contact_sdNumber|watermark=SD Number|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Attachments">Attachments:</label>
+[type=textbox|class=form-control|name=Contact_Attachments|Watermark=attatchments|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_newCatCode">New CAT code:</label>
+[type=textbox|class=form-control|name=Contact_newCatCode|watermark=New CAT Code|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Archived">Archived:</label>
+[type=Select|class=form-control|name=Contact_Archived|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-12">
+<label class="control-label" for="Contact_Comments">Notes:</label>
+[type=Textarea|class=form-control|name=Contact_Comments|watermark=Notes...|Required]
+  </div>
+
+
+
+</div>
+</form>
+                        <div class="tab-pane fade" id="tab2default"><form>
+<section class="form-inline">
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_DonorStatusIDRelease">Donor status ID release:</label>
+[input=textbox|class=form-control|name=Contact_DonorStatusIDRelease|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Discontinued">Discontinued:</label>
+[type=textbox|class=form-control|name=Contact_Discontinued|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_reasonIfNotActive">Reason if not active:</label>
+[type=textbox|class=form-control|name=Contact_reasonIfNotActive|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_dateOfBirth">date of birth:</label>
+[type=date|class=form-control|name=Contact_dateOfBirth|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_race">Race:</label>
+[type=Textbox|class=form-control|name=Contact_race|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_religion">Religion:</label>
+[type=Textbox|class=form-control|name=Contact_religion|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Height">Height:</label>
+[type=Textbox|class=form-control|name=Contact_Height|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Weight">Weight:</label>
+[type=Textbox|class=form-control|name=Contact_Weight|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Build">Build:</label>
+[type=Textbox|class=form-control|name=Contact_Build|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_SkinTone">Skin tone:</label>
+[type=Textbox|class=form-control|name=Contact_SkinTone|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class="control-label" for="Contact_EyeColor">Eye color:</label>
+[type=Textbox|class=form-control|name=Contact_EyeColor|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Allergies">Allergies:</label>
+[type=Textbox|class=form-control|name=Contact_Allergies|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class="control-label" for="Contact_HairColour">Hair colour:</label>
+[type=Textbox|class=form-control|name=Contact_HairColour|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class="control-label" for="Contact_HairTexture">Hair texture:</label>
+[type=Textbox|class=form-control|name=Contact_HairTexture|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class="control-label" for="Contact_HobbiesAndInterests">Hobbies and Interests:</label>
+[type=Textbox|class=form-control|name=Contact_HobbiesAndInterests|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Nationality">Nationality:</label>
+[type=Textbox|class=form-control|name=Contact_Nationality|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class="control-label" for="Contact_TownOfBirth">Town of birth:</label>
+[type=Textbox|class=form-control|name=Contact_TownOfBirth|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class="control-label" for="Contact_CountryOfOrigin">Country of origin:</label>
+[type=Textbox|class=form-control|name=Contact_CountryOfOrigin|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Education">Education:</label>
+[type=Textbox|class=form-control|name=Contact_Education|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class="control-label" for="Contact_SubjectStudied">Subject studied:</label>
+[type=Textbox|class=form-control|name=Contact_SubjectStudied|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Occupation">Occupation:</label>
+[type=Textbox|class=form-control|name=Contact_Occupation|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Skills">Skills:</label>
+[type=Textbox|class=form-control|name=Contact_Skills|Required]
+  </div>
+
+
+
+</div>
+</form>
+                        
+<div class="tab-pane fade" id="tab3default"><form>
+<section class="form-inline">
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_FarthersRace">Farthers race:</label>
+[input=textbox|class=form-control|name=Contact_FarthersRace|watermark=Farthers race|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_FarthersColor">Farthers skin:</label>
+[input=textbox|class=form-control|name=Contact_FarthersSkin|watermark=Farthers skin|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_FarthersEyeColour">Farthers eye colour:</label>
+[input=textbox|class=form-control|name=Contact_FarthersEyeColour|watermark=Farthers eye colour|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_FarthersHairColour">Farthers hair colour:</label>
+[input=textbox|class=form-control|name=Contact_FarthersHairColour|watermark=Farthers hair colour|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_FarthersHeight">Farthers height:</label>
+[input=textbox|class=form-control|name=Contact_FarthersHeight|watermark=Farthers height|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_FarthersHairTexture">Farthers hair texture:</label>
+[input=textbox|class=form-control|name=Contact_FarthersHairTexture|watermark=Farthers hair texture|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_FarthersWeight">Farthers weight:</label>
+[input=textbox|class=form-control|name=Contact_FarthersWeight|watermark=Farthers weight|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_FarthersBuild">Farthers build:</label>
+[input=textbox|class=form-control|name=Contact_FarthersBuild|watermark=Farthers build|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_FarthersCountryOfBirth">Farthers country of birth:</label>
+[input=textbox|class=form-control|name=Contact_FarthersCountryOfBirth|watermark=Farthers country of birth|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_MothersRace">Mothers race:</label>
+[input=textbox|class=form-control|name=Contact_MothersRace|watermark=Mothers race|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_MothersSkinTone">Mothers skin tone:</label>
+[input=textbox|class=form-control|name=Contact_MothersSkinTone|watermark=Mothers skin tone|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_MothersEyeColour">Mothers eye colour:</label>
+[input=textbox|class=form-control|name=Contact_MothersEyeColour|watermark=Mothers eye colour|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_MothersHairColour">Mothers hair colour:</label>
+[input=textbox|class=form-control|name=Contact_MothersHairColour|watermark=Mothers hair colour|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_MothersHeight">Mothers height:</label>
+[input=textbox|class=form-control|name=Contact_MothersHeight|watermark=Mothers height|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_MothersHairTexture">Mothers hair texture:</label>
+[input=textbox|class=form-control|name=Contact_MothersHairTexture|watermark=Mothers hair texture|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_MothersWeight">Mothers weight:</label>
+[input=textbox|class=form-control|name=Contact_MothersWeight|watermark=Mothers weight|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_MothersBuild">Mothers build:</label>
+[input=textbox|class=form-control|name=Contact_MothersBuild|watermark=Mothers build|Required]
+  </div>
+
+<div class="form-group col-sm-4">
+<label class=" control-label" for="Contact_MothersCountryOfBirth">Mothers country of birth:</label>
+[input=textbox|class=form-control|name=Contact_MothersCountryOfBirth|watermark=Mothers country of birth|Required]
+  </div>
+
+</div>
+</form>
+                        
+<div class="tab-pane fade" id="tab4default"><form>
+<section class="form-inline">
+
+<div class="form-group col-sm-3">
+<label class=" control-label" for="Contact_PermittedSexualOrientation">Permitted sexual orientation*:</label>
+[input=textbox|class=form-control|name=Contact_PermittedSexualOrientation|watermark=Permitted sexual orientation|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_PermittedRelationshipStatus">Permitted relationship status**:</label>
+[type=textbox|class=form-control|name=Contact_PermittedRelationshipStatus|watermark=Permitted relationship status|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_PermittedResearch">Permitted research:</label>
+[type=textbox|class=form-control|name=Contact_PermittedResearch|watermark=Permitted research|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_PermittedRace">Permitted race:</label>
+[type=textbox|class=form-control|name=Contact_PermittedRace|watermark=Permitted race|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_PermittedExport">Permitted export:</label>
+[type=textbox|class=form-control|name=Contact_PermittedExport|watermark=Permitted export|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_FamilyLimit">Family limit:</label>
+[type=textbox|class=form-control|name=Contact_FamilyLimit|watermark=Family limit|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_StorageYears">Storage years:</label>
+[type=textbox|class=form-control|name=Contact_StorageYears|watermark=Storage years|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_OnlySibling">Only sibling:</label>
+[type=select|class=form-control|name=Contact_OnlySibling|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_BloodGroup">Blood group:</label>
+[type=textbox|class=form-control|name=Contact_BloodGroup|watermark=Blood group|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_DiscardAfterDate">Discard after date:</label>
+[type=textbox|class=form-control|name=Contact_DiscardAfterDate|watermark=dd/mm/yyyy|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_DiscardAfterDeath">Discard after death:</label>
+[type=date|class=form-control|name=Contact_DiscardAfterDeath|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-12">
+<label class="control-label" for="Contact_RestrictionNotes">Restriction notes:</label>
+[type=textarea|class=form-control|name=Contact_RestrictionNotes|watermark=Restriction notes|Required]
+  </div>
+
+<div class="well col-sm-6">*(Sexual orientation: If you select Homosexual this informs the system that the donor does NOT have a restriction).(If Heterosexual is selected then the donor has placed the restriction on this and only wants heterosexual women treated)
+</div>
+
+<div class="well col-sm-6">**(Relationship Status: If you select 'Single' this informs the system that the donor does NOT have a restriction).(If 'Married' or 'Partnered' is selected then the donor has placed a restriction on this and does not want single women treated)
+
+  </div>
+</div>
+</form>
+
+<div class="tab-pane fade" id="tab5default"><form>
+<section class="form-inline">
+
+<div class="form-group col-sm-3">
+<label class=" control-label" for="Contact_SeenDoctor">Seen Doctor:</label>
+[input=textbox|class=form-control|name=Contact_SeenDoctor|watermark=Name|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_SeenCounsellor">Seen Counseller:</label>
+[type=textbox|class=form-control|name=Contact_SeenCounsellor|watermark=Name|Required]
+  </div>
+
+  <div class="form-group col-sm-3">
+<label class="control-label" for="Contact_Interviewed">Interviewed:</label>
+[type=select|class=form-control|name=Contact_Interviewed|items= select:;yes;no;|Required]
+  </div>
+
+   <div class="form-group col-sm-3>
+<label class="control-label" for="Contact_HEPB">Hep B:</label>
+[type=select|class=form-control|name=Contact_HEPB|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_PassportID">Passport/ID:</label>
+[type=textbox|class=form-control|name=Contact_PassportID|watermark=Passport/ID|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_MdForm">MD Form:</label>
+[type=textbox|class=form-control|name=Contact_MdForm|watermark=MD Form|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_DataSamplesClear">Data samples clear:</label>
+[type=select|class=form-control|name=Contact_DataSamplesClear|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_LastBloodDate">Last blood test date:</label>
+[type=textbox|class=form-control|name=Contact_LastBloodDate|watermark=dd/mm/yyyy|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_GeneticScreeningStatus">Genetic Screening Status:</label>
+[type=textbox|class=form-control|name=Contact_GeneticScreeningStatus|watermark=Genetic Screening Status|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_CMV">CMV:</label>
+[type=textbox|class=form-control|name=Contact_CMV|watermark=CMV|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_HIV">HIV:</label>
+[type=select|class=form-control|name=Contact_HIV|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_SickleCell">Sickle Cell:</label>
+[type=select|class=form-control|name=Contact_SickleCell|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Thalassaemia">Thalassaemia:</label>
+[type=select|class=form-control|name=Contact_Thalassaemia|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_TaySachs">Tay-Sachs:</label>
+[type=select|class=form-control|name=Contact_TaySachs|items= select:;yes;no;|Required]
+  </div>
+
+
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_HEPBCore">Hep B Core:</label>
+[type=select|class=form-control|name=Contact_HEPBCore|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_HEPC">Hep C:</label>
+[type=select|class=form-control|name=Contact_HEPC|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_CysticFibrosis">Cystic Fibroses:</label>
+[type=select|class=form-control|name=Contact_CysticFibrosis|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_VDRLTPHARPR">VDRL/TPHA/RPR:</label>
+[type=select|class=form-control|name=Contact_VDRLTPHARPR|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Chlamydia">Chlamydia:</label>
+[type=select|class=form-control|name=Contact_Chlamydia|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Trichomonas">Trichomonas:</label>
+[type=select|class=form-control|name=Contact_Trichomonas|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Rhesus">Rhesus:</label>
+[type=select|class=form-control|name=Contact_Rhesus|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_Ghonorrheaa">Ghonorrheaa:</label>
+[type=select|class=form-control|name=Contact_Ghonorrheaa|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_BloodChromosomes">Blood Chromosomes:</label>
+[type=select|class=form-control|name=Contact_BloodChromosomes|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_HTLV1">HTLV-1:</label>
+[type=select|class=form-control|name=Contact_HTLV1|items= select:;yes;no;|Required]
+  </div>
+
+  <div class="form-group col-sm-4">
+<label class="control-label" for="Contact_BloodGroup7">Blood Group:</label>
+[type=textbox|class=form-control|name=Contact_BloodGroup7|watermark=Group|Required]
+  </div>
+</div>
+</form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+</canvas>
+</body>
